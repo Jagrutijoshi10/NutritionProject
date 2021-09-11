@@ -1,0 +1,27 @@
+@import "~bootstrap/scss/bootstrap";
+
+.carousel-item, .carousel-item.active {
+    align-items:center !important;
+    height: 500px;
+}
+
+// .carousel-inner {
+//     height: 500px;
+//     object-fit: cover;
+// }
+
+.image2{
+    height: 500px;
+    width: 400px;
+}
+
+.image3{
+    height: 500px;
+    width: 500px;
+}
+
+
+.background-color{
+    background-color: black;
+}
+  
